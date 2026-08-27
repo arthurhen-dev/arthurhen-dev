@@ -41,8 +41,7 @@ Bem-vindo ao meu perfil do GitHub! Sou estudante de Ciência da Computação apa
 
 ### 📫 Como me encontrar:
 - **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
-- **E-mail:** seu.email@exemplo.com
-- **Portfólio / Blog:** [seu-website.com](https://seu-website.com)
+- **E-mail:** ahenriques99122@gmail.com
 
 ---
 *“Teoria é quando você sabe tudo e nada funciona. Prática é quando tudo funciona e ninguém sabe o porquê.”*
