@@ -40,7 +40,7 @@ Bem-vindo ao meu perfil do GitHub! Sou estudante de Ciência da Computação apa
 ---
 
 ### 📫 Como me encontrar:
-- **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
+- **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/arthurhenrique25)
 - **E-mail:** ahenriques99122@gmail.com
 
 ---
